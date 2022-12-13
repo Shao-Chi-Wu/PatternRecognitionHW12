@@ -1,0 +1,1 @@
+# PatternRecognitionHW12
